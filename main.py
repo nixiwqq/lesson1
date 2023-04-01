@@ -3,3 +3,10 @@ class Person:
   height = 175.5
   isMale = True
   name = 'Kyryl' # добавили клас персон
+
+
+
+me = Person()
+friend = Person()
+
+print(me)
